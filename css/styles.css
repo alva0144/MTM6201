@@ -1,0 +1,47 @@
+html {
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.wrapper{
+    width: 800px;
+    margin:auto;
+    background-color: #00afb9;
+    padding: 2rem;
+}
+
+img{
+    width: 740px;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+    color: #fdfcdc;
+    
+}
+
+h2{
+    font-size: 2rem;
+    color: #fdfcdc;
+}
+
+dt{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+}
+
+dd{
+    font-size: 1.2rem;
+    color: white;
+}
+
+p{
+    font-size: 1.5rem;
+    color:white;  
+}
